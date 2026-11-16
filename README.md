@@ -54,7 +54,7 @@ AD Admin Desk 是一款 Windows 桌面管理工具，帮助 IT 管理员使用�
 
 ### 下载与使用
 
-当前稳定版：**v1.0.0** · [下载 Windows ZIP](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
+当前稳定版：**v1.0.1** · [下载 Windows ZIP](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
 
 完整解压 ZIP 并保留主程序、DLL 和 `zh-CN` 资源目录，再运行 `ADAdminDesk.exe`，使用具有相应权限的 AD 账号登录。下载后请核对 ZIP 附带的 SHA-256 文件。当前 Windows 程序未签名。
 
@@ -88,7 +88,7 @@ Domain-joined Windows computers attempt to discover a domain controller; enter a
 
 ### Download and use
 
-Current stable release: **v1.0.0** · [Download the Windows ZIP](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
+Current stable release: **v1.0.1** · [Download the Windows ZIP](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
 
 Extract the complete ZIP and keep the executable, DLLs, and `zh-CN` resource folder together. Run `ADAdminDesk.exe` and sign in with an account that has the required AD permissions. Verify the ZIP against its accompanying SHA-256 file. The current Windows executable is unsigned.
 
