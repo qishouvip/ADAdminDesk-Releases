@@ -10,7 +10,7 @@ AD Admin Desk is a Windows desktop application for IT administrators who manage 
 
 ### Features
 
-- Search users and filter by organizational unit (OU) or lock state.
+- Search users and filter by organizational unit (OU), including descendant OUs in the connected domain, or by lock state.
 - Create, edit, and delete users; enable, disable, or unlock accounts.
 - Reset passwords, set account expiration, and require a password change at next sign-in.
 - Search, create, edit, and delete groups; manage direct user or group membership.
@@ -53,7 +53,7 @@ Domain-joined Windows computers attempt to discover a domain controller; enter a
 
 ### Download and use
 
-Current stable release: **v1.0.0** · [Download the Windows installer or portable build](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
+Current stable release: **v1.0.1** · [Download the Windows installer or portable build](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
 
 Run `ADAdminDesk-win-Setup.exe` to install, or extract the complete `ADAdminDesk-win-Portable.zip` and run `ADAdminDesk.exe`. Sign in with an account that has the required AD permissions and verify the SHA-256 checksum of the download.
 
@@ -71,7 +71,7 @@ AD Admin Desk 是一款 Windows 桌面管理工具，帮助 IT 管理员使用�
 
 ### 主要功能
 
-- 搜索用户，按组织单位（OU）和锁定状态筛选。
+- 搜索用户，按组织单位（OU）和锁定状态筛选。用户和用户组的 OU 筛选包含当前域内所选 OU 的所有子 OU。
 - 新增、编辑、删除用户；启用、禁用或解锁账号。
 - 重置密码、设置账号到期时间、要求用户下次登录时修改密码。
 - 搜索、新增、编辑、删除用户组；维护组的直接用户或组成员。
@@ -87,7 +87,7 @@ AD Admin Desk 是一款 Windows 桌面管理工具，帮助 IT 管理员使用�
 
 ### 下载与使用
 
-当前稳定版：**v1.0.0** · [下载 Windows 安装版或便携版](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
+当前稳定版：**v1.0.1** · [下载 Windows 安装版或便携版](https://github.com/qishouvip/ADAdminDesk-Releases/releases/latest)
 
 运行 `ADAdminDesk-win-Setup.exe` 安装，或完整解压 `ADAdminDesk-win-Portable.zip` 并运行 `ADAdminDesk.exe`。使用具有相应权限的 AD 账号登录，并核对下载文件的 SHA-256 校验值。
 
